@@ -8,6 +8,4 @@ The `RegistrySC` contract handles the registration and verification process for 
 
 To deploy the contracts, compile them using a Solidity compiler of version >= 0.4.22 < 0.9.0, and deploy the contracts in the following order: `HealthCareIDM`, `HealthSC`, and `RegistrySC`.
 
-This project is licensed under the MIT License. Use it at your own risk.
 
-Please note that this implementation is for educational purposes and may not cover all possible security considerations.
